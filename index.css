@@ -1,0 +1,57 @@
+html{
+    scroll-behavior:smooth;
+}
+*{
+    margin: 0;
+}
+
+.Index{
+    margin: 0px 10px 0px 10px;
+    color:white;
+}
+.Foods{
+    color:white;
+}
+.About{
+   margin: 0px 10px 0px 10px ;
+   color:white;
+}
+
+#navbar{
+    background-color: #181e2a;
+    padding: 25px;
+    font-size:20px;
+    color:white;
+}
+h2{
+    margin: 10px 0px 15px 10px;
+}
+.main{
+    background-color: #6c7d90;
+    margin-top: -10px;
+    padding-top: 5px;
+}
+a{
+    text-decoration: none;
+    font-size:18px;
+    color:black;
+}
+.pic{
+    text-align: center; 
+    font-weight: bold;
+}
+.pic>img{
+    height:400px;
+    width:500px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+   
+}
+p{
+    font-size:20px;
+}
+
+
+li{
+    font-weight: bold;
+}
